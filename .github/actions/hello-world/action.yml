@@ -20,4 +20,4 @@ inputs:
 # telling the runner to run `main.js` using node12
 runs:
   using: "node12"
-  main: "main.js"
+  main: "dist/index.js"

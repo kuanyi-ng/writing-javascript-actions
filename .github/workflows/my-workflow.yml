@@ -16,3 +16,5 @@ jobs:
         uses: ./.github/actions/hello-world
         with:
           first-greeting: "Learning Lab User"
+          second-greeting: "GitHub Action"
+          third-greeting: "JavaScript Action"

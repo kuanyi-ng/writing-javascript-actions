@@ -2,6 +2,7 @@ name: "my hello action"
 
 description: "say hello with GitHub Actions"
 
+# telling the runner to run `main.js` using node12
 runs:
   using: "node12"
   main: "main.js"
